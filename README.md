@@ -12,3 +12,11 @@ wow
 
 ### How to enter cheat code:
 type "wow" while on the gamescreen
+
+### Screenshots:
+
+![Frogger normal gameplay](Screenshots/Frogger1.png)
+
+![Frogger Level completed](Screenshots/Frogger2.png)
+
+![Frogger you lost screen](Screenshots/Frogger3.png)
